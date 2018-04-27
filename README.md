@@ -1,7 +1,7 @@
-# Map
+# 1. Map
 ![Route](https://raw.githubusercontent.com/daite/2018/master/images/travel.png)
 
-# Plan
+# 2. Plan
 Date | Route 
 ----- | ------- 
 4/28  | 호텔 -> 헤이안 신궁 -> 은각사 -> 교토대학 -> 교토황궁 -> 금각사 -> 도월교 -> 호텔
