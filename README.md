@@ -9,7 +9,7 @@ Date | Route
 4/30  | 호텔 -> 쇼핑 -> 교토역 -> KIX
 
 # 3. Transportation
-Category  | Fair    | Route
+Category  | Fare    | Route
 ----------| ------- | ------
 하루카      | 3570엔  | 간사이 국제공항 -> 교토역
 하루카      | 3570엔  | 교토역 -> 간사이 국제공항
